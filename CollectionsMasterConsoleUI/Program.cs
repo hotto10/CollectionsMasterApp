@@ -195,9 +195,6 @@ namespace CollectionsMasterConsoleUI
 
         private static void ReverseArray(int[] array)
         {
-
-            
-            
             List<int> list = new List<int>();
             for (int i = array.Length - 1; i >= 0; i--)
             {
